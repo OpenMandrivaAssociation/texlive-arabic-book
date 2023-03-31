@@ -1,6 +1,6 @@
 Name:		texlive-arabic-book
 Version:	59594
-Release:	1
+Release:	2
 Summary:	An Arabic book class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/arabic-book
