@@ -3,7 +3,7 @@ Version:	59594
 Release:	2
 Summary:	An Arabic book class
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/arabic-book
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/arabic-book
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arabic-book.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arabic-book.doc.r%{version}.tar.xz
